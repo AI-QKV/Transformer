@@ -14,3 +14,11 @@
 
 [浅说Transformer（六）手撕代码核心20问!](https://mp.weixin.qq.com/s/UkFllwd9ftIyAHO1Jevu6g)
 
+[浅说Transformer（七）多模态之音视频!](https://mp.weixin.qq.com/s/BRzsYv5MiX306GoPWZZu7g)
+
+[浅说Transformer（八）多模态之视听原理!](https://mp.weixin.qq.com/s/0T0uNgIgqWwnEMNZWDEESw)
+
+[浅说Transformer（十）GAN对抗!](https://mp.weixin.qq.com/s/AaIQ9nBedrsrx8lbb5iCDA)
+
+
+
