@@ -22,3 +22,16 @@
 
 
 
+
+
+# RAG
+
+[RAG全系列（一）初始RAG](https://mp.weixin.qq.com/s/gnwNVA0dGvtUxa88mab-dg)
+
+[RAG全系列（二）向量数据库Milvus](https://mp.weixin.qq.com/s/6oIFpfSFSacgxx2RHFfzpQ)
+
+[RAG全系列（三）分块、语义、关联](https://mp.weixin.qq.com/s/S-C1vTpFMuXBS8h_cg5DcQ)
+
+[RAG全系列（四）检索重排及精排](https://mp.weixin.qq.com/s/D2V7KE14PBgx7zchUcKoIA)
+
+
