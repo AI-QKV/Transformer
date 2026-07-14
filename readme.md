@@ -35,3 +35,15 @@
 [RAG全系列（四）检索重排及精排](https://mp.weixin.qq.com/s/D2V7KE14PBgx7zchUcKoIA)
 
 
+
+# 端侧AI
+
+
+[端侧AI（一）端侧差异](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484217&idx=1&sn=a5d07c1fa03baeaba61b36ec0af9c1a9&scene=21&poc_token=HMcsVmqjGo-mt6IYvk6C8rHyJWB-DrkANHuGUCJp)
+
+[AI端侧（二）OS架构](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484228&idx=1&sn=19c6d7c6af8161e5ba1c457a95fc70b0&scene=21&poc_token=HMssVmqjkzoRP8SjURjzr0FdgwI6s0eVhCnyj5u5)
+
+[端侧AI（三）打破性能瓶颈](https://mp.weixin.qq.com/s/GOPl2kUfeKl2aJbXRUXblA)
+
+
+
