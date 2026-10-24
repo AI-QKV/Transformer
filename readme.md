@@ -24,6 +24,7 @@
 
 
 
+
 # RAG
 
 [RAG全系列（一）初始RAG](https://mp.weixin.qq.com/s/gnwNVA0dGvtUxa88mab-dg)
@@ -46,6 +47,7 @@
 
 
 
+
 # 端侧AI
 
 
@@ -55,5 +57,6 @@
 
 [端侧AI（三）打破性能瓶颈](https://mp.weixin.qq.com/s/GOPl2kUfeKl2aJbXRUXblA)
 
+[端侧AI（四）嵌入设备](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484375&idx=1&sn=f8e4bcaad13cb832719837ba37826409&scene=21#wechat_redirect)
 
 
