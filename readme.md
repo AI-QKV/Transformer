@@ -34,6 +34,16 @@
 
 [RAG全系列（四）检索重排及精排](https://mp.weixin.qq.com/s/D2V7KE14PBgx7zchUcKoIA)
 
+[RAG全系列（五）上下文工程](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484379&idx=1&sn=b1faa61b56ed75b3c9ac0059d9b00c9b&scene=21#wechat_redirect)
+
+[RAG全系列（六）认识图谱](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484400&idx=1&sn=368daa0cf139f785ccd5e54fead790b7&scene=21#wechat_redirect)
+
+[RAG全系列（七）GraphRAG](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484412&idx=1&sn=fdfb984280db90ce48f6feba7ea360b2&scene=21#wechat_redirect)
+
+[RAG全系列（八）RAG加速](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484430&idx=1&sn=b144b14a2e903c846ac8065e0259108f&scene=21#wechat_redirect)
+
+[RAG全系列（九）RAG评估](https://mp.weixin.qq.com/s?__biz=MzIyODQ2MzQ5MQ==&mid=2247484390&idx=1&sn=54ca022745a5333cd13743a0836ad385&scene=21#wechat_redirect)
+
 
 
 # 端侧AI
